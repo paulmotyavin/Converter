@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HGiQmbbB7lfGH3kYrfu9UqkUAZYU02P3WuFJ95MYDVfuCPW69v+P/BAgZKTXHlYbYRdxC1JiP14sKXjVR+Xi6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulscriptum\\source\\repos\\Converter\\Converter\\Converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulscriptum\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
