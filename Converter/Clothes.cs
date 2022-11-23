@@ -21,8 +21,6 @@ namespace Converter
             Name = name;
             Size = size;
             Price = price;
-            size.ToString();
-            price.ToString();
         }
     }
 }
