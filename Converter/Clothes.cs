@@ -11,16 +11,16 @@ namespace Converter
         public string Name;
         public int Size;
         public int Price;
+        
         public Clothes()
         {
 
         }
-
-        public Clothes(string name, int size, int price)
+        public Clothes(string Name, int Size, int Price)
         {
-            Name = name;
-            Size = size;
-            Price = price;
+            this.Name = Name;
+            this.Size = Size;
+            this.Price = Price;
         }
     }
 }
